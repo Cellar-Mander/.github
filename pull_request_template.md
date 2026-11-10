@@ -1,5 +1,6 @@
 ## Why
-<!-- Why this change is needed: the problem or goal, and the task or issue it serves. -->
+<!-- Why this change is needed: the problem or goal, and the task or issue it serves.
+     Optional: if it serves an ebd task, add a line `Task: <ref>` with the task's 8-character ref, so the review can check the change against its Done when. -->
 
 ## What changed
 <!-- What this changes, and anything it deliberately leaves out. -->
